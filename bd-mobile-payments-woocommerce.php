@@ -3,7 +3,7 @@
 Plugin Name: BD Mobile Payments Gateway
 Plugin URI: http://www.areuconnected.com/plugins/bd-mobile-payment-gateway/
 Description: BD Mobile Payment gateway and BDT currency symbol support for woocommerce.
-Version: 1.0
+Version: 1.1
 Author: Jabed Shoeb
 Author URI: http://www.areuconnected.com
 License: GPLv2
