@@ -1,8 +1,8 @@
 ﻿=== BD Mobile Payments Gateway ===
 Contributors: onnoysomoy
 Tags: payment gateway, mobile payments, woocommerce
-Requires at least: 3.8
-Tested up to: 3.9
+Requires at least: 4.0
+Tested up to: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,4 +40,7 @@ Please contact with us directly if you have any problem to install or use the pl
 
 == Changelog ==
 1.0
-First stable version, tested with latest version of Wordpress & woocommerce..
+First stable version, tested with latest version of Wordpress & woocommerce.
+
+1.1
+Small bug fix, and tested with latest version of wordpress and woocommerce.
